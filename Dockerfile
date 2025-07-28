@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 RUN mkdir -p /app/input /app/output
 
-CMD ["python", "src/extract_outline.py", "--input_dir", "/app/input", "--output_dir", "/app/output"]
+CMD ["python", "process_pdfs.py", "--input_dir", "/app/input", "--output_dir", "/app/output"]
