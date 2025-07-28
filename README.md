@@ -14,7 +14,7 @@ For each PDF, extract:
 
 ---
 
-## 📝 Sample Output Format (JSON)
+📝 Sample Output Format (JSON)
 
 ```json
 {
@@ -25,6 +25,8 @@ For each PDF, extract:
     { "level": "H3", "text": "History of AI", "page": 3 }
   ]
 }
+
+---
 
 🧠 Approach
 -Used PyMuPDF (fitz) to read and analyze PDF structure
