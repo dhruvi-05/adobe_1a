@@ -1,6 +1,6 @@
 # Adobe Hackathon 2025 – Round 1A  
 **Challenge Theme:** Connecting the Dots Through Docs  
-**Participant:** Apoorva Bajpai  
+**Participant:** Dhruvi Sharma  
 **Repository:** [dhruvi-05/adobe_1a](https://github.com/dhruvi-05/adobe_1a)
 
 ---
